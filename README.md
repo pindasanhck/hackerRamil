@@ -17,7 +17,6 @@
             <button class="btn" id="bawal"><b>bawal</b></button>
         </div>
     </div> 
-</body>
 <script>
     const noBtn = document.getElementById('bawal');
     const yesBtn = document.getElementById('pwede');
